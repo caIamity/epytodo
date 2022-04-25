@@ -9,11 +9,11 @@ Used software/utilities : ExpressJS, nodejs, nodemon, popSQL, mySQL Workbench, W
 Mark : 100
 
 !IMPORTANT NOTE!
-This server is currently not running and is privatised either way. Even if you were to access it, it would show a homepage with Express written on it.
+This server is currently not running and will stay offline.
 
 EPYTODO
 
-access the server by running :
+You may access the server by running :
 
 MacOS / Linux : DEBUG=myapp:* npm start
 
